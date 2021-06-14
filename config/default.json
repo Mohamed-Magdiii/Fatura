@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://magdy123:magdy123@devconnector.pzqv0.mongodb.net/faturaDB?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}
